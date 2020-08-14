@@ -25,7 +25,7 @@ A Jupyter notebook will be sent around prior to the workshop to ensure that soft
 
 
 ## Instructor
-Dr. Thomas Bury
-Postdoctoral researcher
-Department of Physiology, McGil University
+Dr. Thomas Bury <br>
+Postdoctoral researcher <br>
+Department of Physiology, McGill University <br>
 Contact: thomas.bury@mcgill.ca
