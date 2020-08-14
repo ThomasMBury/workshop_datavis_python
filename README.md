@@ -1,3 +1,4 @@
+#### CAMBAM-CRM workshop
 # Interactive data visualisation in Python
 
 ## Instructor
