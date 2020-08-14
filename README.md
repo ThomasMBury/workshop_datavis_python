@@ -1,5 +1,11 @@
+#### CAMBAM-CRM workshop
 # Interactive data visualisation in Python
 
+## Instructor
+Dr. Thomas Bury <br>
+Postdoctoral researcher <br>
+Department of Physiology, McGill University <br>
+Contact: thomas.bury@mcgill.ca
 
 ## Summary				
 Modern scientific methods give rise to vast quantities of data. Creating effective visualisations is essential for both presentation and more importantly exploration of the data. This is no easy task when the data contains dozens of variables and millions of entries. Traditional visualisations are static, that is, what the user sees is what the user gets. Using interactive data visualisations allows the user to vary parameters, honing in on subsections of the data, or switching between different plot types - all without touching the code. This allows for rapid exploration of the data and seamless sharing amongst collaborators, who only require a web browser to open the visualisation.		
@@ -24,8 +30,3 @@ The following should be installed on the participant’s computer prior to the w
 A Jupyter notebook will be sent around prior to the workshop to ensure that software is working in advance. If problems arise, please contact the instructor for help.
 
 
-## Instructor
-Dr. Thomas Bury
-Postdoctoral researcher
-Department of Physiology, McGil University
-Contact: thomas.bury@mcgill.ca
