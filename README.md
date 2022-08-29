@@ -12,7 +12,7 @@ Modern scientific methods give rise to vast quantities of data. Creating effecti
 
 This workshop will equip participants with the skills required to begin creating interactive visualisations in Python. The format will be interactive, with alternation between demonstrations by the instructor and participants working through their own Jupyter notebook (provided in advance). Participants will come away having made several of their own visualisations of either a large public dataset, or their own dataset if they would like to bring one. See this  [interactive visualisation](https://ecg-dashboard-medium.herokuapp.com/) of ECG data from Physionet for an example of what can be achieved with these tools.
 
-## Description of methodology			
+## Objectives		
 In this workshop, we will use the *pandas* library to manipulate dataframes, the *plotly* library to make interactive visualisations and the *dash* library to bring together the visualisations into a dashboard. Participants of the workshop will learn and implement the following techniques:
 - Organisation of *pandas* DataFrames to facilitate rapid plotting.
 - Use of basic Plotly functionality including the creation of different plot representations (Bar, Line, Scatter, Histogram) and exportation to html files for interactive viewing.
@@ -21,12 +21,14 @@ In this workshop, we will use the *pandas* library to manipulate dataframes, the
 - (If time allows.) Combining interactive plots into a dashboard with components connected by callback functions.
 
 
-## Software requirements
-The following should be installed on the participant’s computer prior to the workshop:
-- Python 3 (Anaconda distribution https://www.anaconda.com/products/individual recommended)
-- JupyterLab (comes installed with the Anaconda dist. above)
-- Python libraries: Numpy, Pandas, Plotly, Dash
+## Setup instructions
 
-A Jupyter notebook will be sent around prior to the workshop to ensure that software is working in advance. If problems arise, please contact the instructor for help.
+Python 3 and JupyterLab are required for the workshop. If these are already installed on your computer you may skip these steps.
+1. Download the Anaconda distribution
+2. 
+
+....finish this.....
+
+If you run into issues, please contact the instructor for help.
 
 
