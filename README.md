@@ -21,7 +21,7 @@ We will cover the following:
 
 ## Setup instructions
 
-1. Install the Anaconda distribution available [here](https://www.anaconda.com/products/distribution). This comes with Python 3, JupyterLab and a large number of Python packages.
+1. Install the Anaconda distribution available [here](https://www.anaconda.com/products/distribution). This comes with Python 3, JupyterLab and the Python packages *numpy* and *pandas*, which we will require for the workshop.
 
 2. Install Python packages for *plotly* and *dash* by entering the following commands into your Terminal (Mac) or Command Prompt (PC):
 
@@ -34,19 +34,18 @@ We will cover the following:
 
 4. Make a [Github](https://github.com/) account if you don't already have one.
 
-5. Go to the workshop [repository](https://github.com/ThomasMBury/workshop_datavis_python), and create a *fork* (button on top right). This creates your own version of the repository, allowing you to make edits to the workshop notebooks.
+5. Go to the workshop [repository](https://github.com/ThomasMBury/workshop_datavis_python), and create a *fork* (button on top right). This creates your own version of the repository, in which you can make edits and complete the workshop notebooks.
 
 6. *Clone* your repository to your computer. To do this, click the green button that says 'Code', and copy the link that appears in the box. Then go to your Terminal (or Command Prompt), navigate to a folder where you would like to store the repository and enter
 
    ```
    git clone paste-your-link-here
    ```
+   where you paste your link as indicated. You should now see the directory *workshop_datavis_python* saved on your computer.
 
-   You should now see the directory *workshop_datavis_python* saved on your computer.
+7. Open the Anaconda Navigator and launch JupyterLab. Navigate to where you saved the workshop repository and open *test.ipynb*. Check that you can run this notebook without any errors.
 
-7. Open the Anaconda Navigator and launch JupyterLab. Navigate to where you saved the workshop repository and open *test.ipynb*. You should be able to run this notebook without any errrors.
-
-If you run into issues, please contact me at thomas.bury@mcgil.ca.
+If you run into issues, please contact me at thomas.bury@mcgil.ca and I'll glady help out.
 
 
 
