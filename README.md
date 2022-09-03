@@ -44,9 +44,6 @@ We will cover the following:
 
    You should now see the directory *workshop_datavis_python* saved on your computer.
 
-7. Open the Anaconda Navigator and launch JupyterLab. Navigate to where you saved the workshop repository and open *test.ipynb*. You should be able to run this notebook without any errrors.
+7. Open the Anaconda Navigator and launch JupyterLab. Navigate to where you saved the workshop repository and open *test.ipynb*. If you can run this notebook without any errors, then everything is running as it should!
 
 If you run into issues, please contact me at thomas.bury@mcgil.ca.
-
-
-
