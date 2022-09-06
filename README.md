@@ -27,7 +27,7 @@ We will cover the following:
 
    ```bash
    conda install plotly
-   conda install dash
+   conda install -c conda-forge dash
    conda install -c conda-forge -c plotly jupyter-dash
 
 3. Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) if not already on your computer.
