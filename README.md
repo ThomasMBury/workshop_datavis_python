@@ -45,5 +45,5 @@ We will cover the following:
 
 7. Open the Anaconda Navigator and launch JupyterLab. Navigate to where you saved the workshop repository and open *test.ipynb*. Check that you can run this notebook without any errors.
 
-If you run into issues, please contact me at thomas.bury@mcgil.ca and I'll glady help out.
+If you run into issues, please contact me at thomas.bury@mcgill.ca and I'll glady help out.
 
