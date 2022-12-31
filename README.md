@@ -1,5 +1,7 @@
 # Workshop: Interactive data visualisation in Python :snake:
 
+This repository contains the material for a workshop that I have run for the Centre de Recherches Mathématiques, the Centre for Applied Mathematics in Bioscience and Medicine, and the Quantitative Life Sciences Dept. at McGill University.
+
 ## Instructor
 Dr. Thomas Bury <br>
 Postdoctoral fellow <br>
