@@ -1,5 +1,7 @@
 # Workshop: Interactive data visualisation in Python :snake:
 
+This repository contains the material for a workshop that I have run for the Centre de Recherches Mathématiques, the Centre for Applied Mathematics in Bioscience and Medicine, and the Quantitative Life Sciences Dept. at McGill University.
+
 ## Instructor
 Dr. Thomas Bury <br>
 Postdoctoral fellow <br>
@@ -27,7 +29,7 @@ We will cover the following:
 
    ```bash
    conda install plotly
-   conda install dash
+   conda install -c conda-forge dash
    conda install -c conda-forge -c plotly jupyter-dash
 
 3. Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) if not already on your computer.
@@ -45,5 +47,5 @@ We will cover the following:
 
 7. Open the Anaconda Navigator and launch JupyterLab. Navigate to where you saved the workshop repository and open *test.ipynb*. Check that you can run this notebook without any errors.
 
-If you run into issues, please contact me at thomas.bury@mcgil.ca and I'll glady help out.
+If you run into issues, please contact me at thomas.bury@mcgill.ca and I'll glady help out.
 
